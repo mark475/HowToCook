@@ -89,6 +89,7 @@
 - [水煮肉片](./dishes/meat_dish/水煮肉片.md)
 - [蒜苔炒肉末](./dishes/meat_dish/蒜苔炒肉末.md)
 - [糖醋里脊](./dishes/meat_dish/糖醋里脊.md)
+- [糖醋小排](./dishes/meat_dish/糖醋小排/糖醋小排.md)
 - [土豆炖排骨](./dishes/meat_dish/土豆炖排骨/土豆炖排骨.md)
 - [无骨鸡爪](./dishes/meat_dish/无骨鸡爪/无骨鸡爪.md)
 - [西红柿牛腩](./dishes/meat_dish/西红柿牛腩/西红柿牛腩.md)
